@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 20
+Author : ziya ur raheman 
+Description :Write two programs so that both can communicate by FIFO -Use two way communications.
+Date: 7th oct, 2023.
+============================================================================
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

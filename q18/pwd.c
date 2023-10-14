@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 18
+Author : ziya ur raheman 
+Description :Write a program to find out total number of directories on the `pwd`. Execute `ls -l | grep ^d | wc`. Use only `dup2`.
+Date: 7th oct, 2023.
+============================================================================
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>

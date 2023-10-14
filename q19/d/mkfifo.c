@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 19d
+Author : ziya ur raheman 
+Description :Create a FIFO file by use mkfifo
+Date: 7th oct, 2023.
+============================================================================
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
